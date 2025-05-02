@@ -21,7 +21,7 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 ### **Languages & Frameworks**
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-ED1C24?style=flat-square)
 ![Verilog](https://img.shields.io/badge/-Verilog-FFB300?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 
 ### **Hardware & Tools**

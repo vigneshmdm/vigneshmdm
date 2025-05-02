@@ -18,23 +18,38 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 
 ## 💡 What I Work With
 
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-ED1C24?style=flat-square&logo=verilog)
-![Vivado](https://img.shields.io/badge/-Vivado-FFB300?style=flat-square&logo=xilinx)
+### 💻 **Languages & Frameworks**
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-ED1C24?style=flat-square)
+![Verilog](https://img.shields.io/badge/-Verilog-FFB300?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+
+### 🧰 **Hardware & Tools**
+![Vivado](https://img.shields.io/badge/-Vivado-FFB300?style=flat-square&logo=xilinx)
 ![Verilator](https://img.shields.io/badge/-Verilator-1E90FF?style=flat-square)
-![FPGA](https://img.shields.io/badge/-FPGA-0D1117?style=flat-square)
-![AI](https://img.shields.io/badge/-AI-blueviolet?style=flat-square)
-![CAN Protocol](https://img.shields.io/badge/-CAN--Bus-00599C?style=flat-square)
+![PYNQ FPGA](https://img.shields.io/badge/-PYNQ%20FPGA-6A1B9A?style=flat-square)
+![Cadence](https://img.shields.io/badge/-Cadence-E40046?style=flat-square)
+![Synopsys](https://img.shields.io/badge/-Synopsys-4A148C?style=flat-square)
+![AXI](https://img.shields.io/badge/-AXI%20Streaming-1976D2?style=flat-square)
 
----
+### 📦 **Embedded Platforms**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![ARM Cortex](https://img.shields.io/badge/-ARM%20Cortex-2C3E50?style=flat-square)
+![PIC Microcontroller](https://img.shields.io/badge/-PIC%20MCU-0288D1?style=flat-square)
 
-## 🔍 Areas of Focus
+### 🧪 **Verification & Methodologies**
+![RTL Verification](https://img.shields.io/badge/-RTL%20Verification-1565C0?style=flat-square)
+![Timing Analysis](https://img.shields.io/badge/-Timing%20Analysis-FFA000?style=flat-square)
+![Synthesis](https://img.shields.io/badge/-Synthesis-3949AB?style=flat-square)
+![DFMEA](https://img.shields.io/badge/-DFMEA-1B5E20?style=flat-square)
+![Six Sigma](https://img.shields.io/badge/-Six%20Sigma-4CAF50?style=flat-square)
 
-- RTL Development & Verification  
-- Synthesis, Timing, and Optimization  
-- FPGA/ASIC Workflows (PYNQ, AXI, SoC)  
-- Embedded Systems & AI Integration  
-- Semiconductor Processing (Lithography, Etching, CMOS)
+### 🏭 **Semiconductor & Manufacturing**
+![Lithography](https://img.shields.io/badge/-Lithography-B71C1C?style=flat-square)
+![Etching](https://img.shields.io/badge/-Etching-FF7043?style=flat-square)
+![CMOS Fabrication](https://img.shields.io/badge/-CMOS%20Fabrication-00897B?style=flat-square)
+![Reflow Profile](https://img.shields.io/badge/-Reflow%20Soldering-F44336?style=flat-square)
+![IPC-A-610](https://img.shields.io/badge/-IPC--A--610-BDBDBD?style=flat-square)
 
 ---
 

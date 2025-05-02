@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vignesh
 
 🎓 Master of Engineering in Electrical and Computer Engineering @ University of Waterloo  
-🔧 RTL Design • FPGA/ASIC • Embedded Systems • Semiconductor Technology  
+🔧 RTL Design • FPGA/ASIC • Embedded Systems • ML for Chip Design • Semiconductor Technology    
 📍 Waterloo, Ontario, Canada
 
 ---
@@ -23,6 +23,7 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 ![Verilog](https://img.shields.io/badge/-Verilog-FFB300?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Machine Learning](https://img.shields.io/badge/-ML%20for%20Chip%20Design-6A1B9A?style=flat-square)
 
 ### **Hardware & Tools**
 ![Vivado](https://img.shields.io/badge/-Vivado-FFB300?style=flat-square&logo=xilinx)

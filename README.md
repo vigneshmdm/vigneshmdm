@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Vignesh
 
-🔧 **RTL Design | Digital Systems | Embedded Engineering**  
-📍 Based in Waterloo, Canada | IEEE-Published | 6+ National Awards
+🎓 Master of Engineering in Electrical and Computer Engineering @ University of Waterloo  
+🔧 RTL Design • FPGA/ASIC • Embedded Systems • Semiconductor Technology  
+📍 Waterloo, Ontario, Canada
 
 ---
 
@@ -45,4 +46,4 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 
 ---
 
-_“Not just where tech is today — I’m building for where it needs to be tomorrow.”_
+_“I’m not just focused on where technology is today — I'm building toward where it needs to be tomorrow.”_

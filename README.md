@@ -57,7 +57,7 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 
 📧 vigneshmdm@yahoo.com  
 📞 +1 (382) 885-2396  
-🌐 [LinkedIn](https://linkedin.com/in/YOUR-LINK) | [Portfolio](https://github.com/YOUR-PORTFOLIO-LINK)
+🌐 [LinkedIn](https://www.linkedin.com/in/vigneshmdm/) | [Portfolio](https://sites.google.com/view/vigneshdm)
 
 ---
 

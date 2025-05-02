@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m an engineer who believes great design is both **purposeful and invisible**.  
 I specialize in **hardware acceleration, RTL optimization, and chip-level design**.  
@@ -16,7 +16,7 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 
 ---
 
-## 💡 What I Work With
+## What I Work With
 
 ### **Languages & Frameworks**
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-ED1C24?style=flat-square)
@@ -53,7 +53,7 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 
 ---
 
-## 📬 Reach Me At
+## Reach Me At
 
 📧 vigneshmdm@yahoo.com  
 📞 +1 (382) 885-2396  

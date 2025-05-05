@@ -27,7 +27,6 @@ I approach technology with curiosity, clarity, and a drive to **build what matte
 
 ### **Hardware & Tools**
 ![Vivado](https://img.shields.io/badge/-Vivado-FFB300?style=flat-square&logo=xilinx)
-![Verilator](https://img.shields.io/badge/-Verilator-1E90FF?style=flat-square)
 ![PYNQ FPGA](https://img.shields.io/badge/-PYNQ%20FPGA-6A1B9A?style=flat-square)
 ![Cadence](https://img.shields.io/badge/-Cadence-E40046?style=flat-square)
 ![Synopsys](https://img.shields.io/badge/-Synopsys-4A148C?style=flat-square)
